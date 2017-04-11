@@ -1,1 +1,5 @@
-rails test ./test/controllers/static_pages_controller_test.rb
+rem ローカルサーバ起動
+start rails s
+
+rem 自動テスト環境起動
+start bundle exec guard
