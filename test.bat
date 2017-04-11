@@ -1,0 +1,1 @@
+rails test ./test/controllers/static_pages_controller_test.rb
